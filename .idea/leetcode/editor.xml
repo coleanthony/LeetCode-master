@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../leetcode_java/leetcode/editor/cn/[1145]Binary Tree Coloring Game.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode_java/leetcode/editor/cn/doc/content/[1145]Binary Tree Coloring Game.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1145" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode_java/leetcode/editor/cn/[1145]Binary Tree Coloring Game.java" />
+              <option name="titleSlug" value="binary-tree-coloring-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode_java/leetcode/editor/cn/[827]Making A Large Island.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../leetcode_java/leetcode/editor/cn/doc/content/[827]Making A Large Island.md" />
+              <option name="frontendQuestionId" value="leetcode.cn827" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../leetcode_java/leetcode/editor/cn/[827]Making A Large Island.java" />
+              <option name="titleSlug" value="making-a-large-island" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
